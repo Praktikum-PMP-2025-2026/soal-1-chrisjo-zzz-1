@@ -2,7 +2,7 @@
  *   Modul               : 1
  *   Hari dan Tanggal    : 13 April 2026
  *   Nama (NIM)          : Christian Jonathan Hutajulu (13224108)
- *   Nama File           : Soal1.c
+ *   Nama File           : soal1.c
  *   Deskripsi           : Sebuah gerbang keamanan memproses data satu peneliti. Input berupa level izin, suhu tubuh, kadar radiasi, dan jam kedatangan. Output bergantung kepada kondisi dari input
  */
 
